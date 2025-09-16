@@ -10,7 +10,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: backend.amanpathakdevops.study
+    - host: k8frontend.shreyasdk8.tk
       http:
         paths:
           - path: /api
